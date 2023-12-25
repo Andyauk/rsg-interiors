@@ -4,7 +4,7 @@ game "rdr3"
 
 author 'rexshack'
 description 'rsg-interiors'
-version '1.0.1'
+version '1.0.2'
 
 client_scripts {
     'interiors.lua'
