@@ -1490,7 +1490,7 @@ RequestImap(-1377975054) -- ground trail to house
 ------------------------------------- #### END Hole/cabin east of emerald station --####
 
 --------------------- Valentine extras
-RequestImap(886997475) -- bounty board
+-- RequestImap(886997475) -- bounty board
 -- RequestImap(325677491) --  white sign gunshop
 RequestImap(1936501508) -- big old sign gunshop
 -- RequestImap(-2083943324) -- debris infront of liqour
@@ -3241,3 +3241,23 @@ RequestImap(-1632348233)
 RemoveImap(1173561253) -- Blackwater -- Town Hall -- Tents Beside City Hall Near Trech
 RemoveImap(1641449717) -- Blackwater -- Town Hall -- Grass along path near tents
 -- End of Blackwater Town Hall
+
+-- BOUNTY BOARDS --
+--RequestImap(1570947227) -- Annesburg
+RequestImap(227456234) --Annesburg
+RequestImap(59120723) -- Armadillo
+RequestImap(-1975145165) -- Benedict
+RequestImap(-1293161516) -- Blackwater
+--RequestImap(-214604861) -- Emerald Station
+RequestImap(-1913584952)--Emerald Station
+RequestImap(1817836578) -- Rhodes
+RequestImap(1418611013) -- Riggs
+RequestImap(-226455701) -- StDenis
+RequestImap(-1019371157) -- Strawberry
+RequestImap(1296658155) -- Tumbleweed
+--RequestImap(886997475) -- Valentine
+RequestImap(952801839)-- Valentine
+--RequestImap(-428652579) -- Vanhorn
+RequestImap(-1487154162) --Vanhorn
+RequestImap(-605257184) -- Wallace
+--END BOUNTY BOARDS
