@@ -1268,11 +1268,11 @@ RequestImap(619024057) -- full interior with doors
 ------------------------------------- #### END OF SAINT DENIS DOCTOR OFFICE ####
 
 ----------------------- Casino boat
-RequestImap(-614421509) -- boat shell
-RequestImap(604920544) -- upstairs interior
-RequestImap(1382135686) -- main room interior
-RequestImap(-1968130469) -- railings
-RequestImap(-276259505) -- railings
+--RequestImap(-614421509) -- boat shell
+--RequestImap(604920544) -- upstairs interior
+--RequestImap(1382135686) -- main room interior
+--RequestImap(-1968130469) -- railings
+--RequestImap(-276259505) -- railings
 ------------------------------------- #### END OF CASINO ####
 ------------------------Wapiti & Native Stuff
 RequestImap(1003623269) -- Tent in Wapiti
