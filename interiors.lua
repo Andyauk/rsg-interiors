@@ -1490,7 +1490,6 @@ RequestImap(-1377975054) -- ground trail to house
 ------------------------------------- #### END Hole/cabin east of emerald station --####
 
 --------------------- Valentine extras
--- RequestImap(886997475) -- bounty board
 -- RequestImap(325677491) --  white sign gunshop
 RequestImap(1936501508) -- big old sign gunshop
 -- RequestImap(-2083943324) -- debris infront of liqour
@@ -2081,8 +2080,8 @@ RequestImap(-1625703283)
 -- RequestImap(-1272426249)
 -- RequestImap(334535013)
 -- RequestImap(582879672)
--- RequestImap(1713454259)
--- RequestImap(-1417469821)
+RequestImap(1713454259) -- Annesburg interior 2924.21, 1351.93, 44.86
+RequestImap(-1417469821) -- Annesburg blocked door of interior below 2922.8, 1340.88, 44.76
 -- RequestImap(1798244378)
 -- RequestImap(-1665620584)
 -- RequestImap(-537740003)
