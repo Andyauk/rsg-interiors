@@ -7,8 +7,8 @@
 - IPL list collected and put together and shared
 
 # Installation
-- extract the contents of the redm-ipls.zip
+- extract the contents of the rsg-interiors.zip
 - add it to your resources folder
-- add to server.cfg to start : ensure redm-ipls
+- add to server.cfg to start : ensure rsg-interiors
 
 Thanks goes to lots of people.
