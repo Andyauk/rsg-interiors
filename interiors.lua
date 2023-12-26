@@ -1501,72 +1501,72 @@ RequestImap(2470511) -- box and stool next to gun shop
 
 --RequestImap(-643541706)
 RemoveImap(247969883)
--- RequestImap(666617953)
--- RequestImap(-1892595931)
--- RequestImap(-784156210)
--- RequestImap(-2097346584)
--- RequestImap(-1000738568)
--- RequestImap(-991619789)
--- RequestImap(-799526632)
--- RequestImap(1325716092)
--- RequestImap(-1049500949)
--- RequestImap(951314072)
--- RequestImap(-1878882174)
--- RequestImap(724436573)
--- RequestImap(-1744253204)
--- RequestImap(-2009766528)
+-- RequestImap(666617953) -- Something relating to valentine saloon
+-- RequestImap(-1892595931) -- Something relating to valentine restaurant
+-- RequestImap(-784156210) -- Something relating to valentine bank
+-- RequestImap(-2097346584) -- some underground box, nothing there
+-- RequestImap(-1000738568) -- boxes between valentine general store and saloon
+-- RequestImap(-991619789) -- wooden box outside valentine saloon below food board
+-- RequestImap(-799526632) -- Valentine Saloon chimney smoke
+-- RequestImap(1325716092) -- something relating to Val Sheriff Office
+-- RequestImap(-1049500949) -- Fixed Chair outside Valentine Doctor's Office
+-- RequestImap(951314072) -- something inside valentine gunsmith
+-- RequestImap(-1878882174) -- extra planks on fence in Valentine Auction Yard at -239.54, 672.14, 113.29
+-- RequestImap(724436573) -- open gates in valentine auction yard, near previous imap
+-- RequestImap(-1744253204) -- something relating to green house in valentine
+-- RequestImap(-2009766528) -- Broken Chair outside Valentine Doctor's Office
 RequestImap(-1005727867)
-RequestImap(1929440211)
--- RequestImap(-1781246069)
--- RequestImap(-159723514)
--- RequestImap(-1801047945)
-RequestImap(-590227673) -- bau haus valentine
--- RequestImap(1823159188)
--- RequestImap(-407068688)
--- RequestImap(1552753100)
--- RequestImap(1548242606)
--- RequestImap(-555917871)
--- RequestImap(1777348822)
--- RequestImap(-1824080033)
--- RequestImap(1460466036)
--- RequestImap(-1279036865)
--- RequestImap(-1818498296)
--- RequestImap(116162819)
--- RequestImap(588746212)
--- RequestImap(-1593160175)
--- RequestImap(-2040493861)
--- RequestImap(-1382265257)
--- RequestImap(-508205317)
--- RequestImap(-232598845)
--- RequestImap(1497923922)
--- RequestImap(-1069586228)
--- RequestImap(-1816233372)
--- RequestImap(-1773409329)
--- RequestImap(-688744902)
--- RequestImap(1987335384)
--- RequestImap(-1149736196)
--- RequestImap(-983957271)
--- RequestImap(427220750)
--- RequestImap(-1926787493)
--- RequestImap(1840600379)
--- RequestImap(2136811572)
--- RequestImap(1332067900)
--- RequestImap(-1118337851)
--- RequestImap(1236490949)
--- RequestImap(-1701626270)
--- RequestImap(-557964826)
--- RequestImap(603871447)
--- RequestImap(-1569624057)
--- RequestImap(-378395191)
--- RequestImap(273551835)
--- RequestImap(-961488528)
--- RequestImap(1936009597)
--- RequestImap(-425834853)
--- RequestImap(-1055748784)
--- RequestImap(-694809996)
+RequestImap(1929440211) -- Ranch -2196.76, 700.32, 121.82
+-- RequestImap(-1781246069) -- something relating to green house in valentine
+-- RequestImap(-159723514) -- barrels near rock to the right of valentine stables
+-- RequestImap(-1801047945) -- thomas downes gravestone in valentine cemetary
+RequestImap(-590227673) -- House construction south of valentine -436.32, 498.18, 98.93
+-- RequestImap(1823159188) -- Crops at the house south of valentine -433.32, 505.72, 98.01
+-- RequestImap(-407068688) -- Skull, Flags and random props at -384.06, 875.9, 115.51 near valentine
+-- RequestImap(1552753100) -- House construction complete -436.32, 498.18, 98.93
+-- RequestImap(1548242606) -- Camp at -4.34, 951.13, 210.97
+-- RequestImap(-555917871) -- something relating to valentine cemetary
+-- RequestImap(1777348822) -- sacks at -382.88, 918.75, 118.53
+-- RequestImap(-1824080033) -- House interior at -379.01, 917.94, 118.59
+-- RequestImap(1460466036) -- something to do with a bridge at oil station 570.3, 596.73, 110.75
+-- RequestImap(-1279036865) -- doesn't seem to be anything, teleports me underground
+-- RequestImap(-1818498296) -- barrels and chest below cliff -107.32, 922.87, 177.33
+-- RequestImap(116162819) -- fixed tower at heartlands oil factory
+-- RequestImap(588746212) -- something relating to a camp 123.48, 415.33, 136.63
+-- RequestImap(-1593160175)) -- boxes outside house south of valentine -436.32, 498.18, 98.93
+-- RequestImap(-2040493861) -- house south of valentine interior -436.32, 498.18, 98.93
+-- RequestImap(-1382265257) -- house south of valentine interior -436.32, 498.18, 98.93
+-- RequestImap(-508205317) -- Camp at -547.63, 391.85, 87.89
+-- RequestImap(-232598845) -- Camp at -423.34, 497.2, 98.12
+-- RequestImap(1497923922) -- Ropes at cliff -8.14, 537.49, 149.78
+-- RequestImap(-1069586228) -- Camp at -191.35, 295.35, 96.83
+-- RequestImap(-1816233372) -- not sure if valid, teleports me into air
+-- RequestImap(-1773409329) -- "LOOK ON MY WORKS" written on rocks -160.29, 489.7, 104.09
+-- RequestImap(-688744902) -- Camp at 182.7, 344.61, 120.62
+-- RequestImap(1987335384) -- house south of valentine planks outside
+-- RequestImap(-1149736196) -- something House South of Valentine -441.4, 499.04, 98.94
+-- RequestImap(-983957271) -- Skull, Flags and random props at -434.07, 550.15, 103.8 near valentine
+-- RequestImap(427220750) -- curtains closed House South of Valentine -441.4, 499.04, 98.94
+-- RequestImap(-1926787493) -- house finished House South of Valentine -441.4, 499.04, 98.94
+-- RequestImap(1840600379) -- planks of wood, underground?! House South of Valentine -441.4, 499.04, 98.94
+-- RequestImap(2136811572) -- planks of wood, underground?! House South of Valentine -441.4, 499.04, 98.94
+-- RequestImap(1332067900) -- Guarma Storyline Building
+-- RequestImap(-1118337851) -- Guarma Storyline Building
+-- RequestImap(1236490949) -- Guarma?
+-- RequestImap(-1701626270) -- Guarma?
+-- RequestImap(-557964826) -- Guarma?
+-- RequestImap(603871447) -- Guarma Burning sugar building
+-- RequestImap(-1569624057) -- Guarma?
+-- RequestImap(-378395191) -- Guarma?
+-- RequestImap(273551835) -- Guarma?
+-- RequestImap(-961488528) -- Guarma?
+-- RequestImap(1936009597) -- Guarma?
+-- RequestImap(-425834853) -- Guarma Ship Hold
+-- RequestImap(-1055748784) -- Guarma?
+-- RequestImap(-694809996) -- Guarma?
 RequestImap(-279703229) --Guma Tower
--- RequestImap(-2053475031)
--- RequestImap(-623091266)
+-- RequestImap(-2053475031) -- Guarma?
+-- RequestImap(-623091266) -- Guarma?
 -- RequestImap(-217646849)
 -- RequestImap(-313831898)
 -- RequestImap(1694736240)
@@ -1802,7 +1802,7 @@ RequestImap(1991621063)
 -- RequestImap(-1314125880)
 -- RequestImap(-953275122)
 -- RequestImap(1998087725)
-RequestImap(1145227353) ----hexenzirkel
+RequestImap(1145227353) -- Demonic Ritual shit at -2902.92, -252.1, 186.82
 -- RequestImap(1915867459)
 -- RequestImap(-3571233)
 -- RequestImap(-2105071972)
@@ -1978,8 +1978,8 @@ RequestImap(-724913398)
 -- RequestImap(222513322)
 -- RequestImap(461989174)
 -- RequestImap(-1316886711)
-RequestImap(-37875204) --mary haus
-RequestImap(258104717) --mary haus
+RequestImap(-37875204) -- outside of house at -1551.33, 253.69, 114.8
+RequestImap(258104717) -- house interior -1551.33, 253.69, 114.8
 -- RequestImap(-76700394)
 -- RequestImap(1614255891)
 -- RequestImap(1492183352)
@@ -1989,23 +1989,23 @@ RequestImap(258104717) --mary haus
 -- RequestImap(1138093977)
 -- RequestImap(339111695)
 -- RequestImap(-518858513)
-RequestImap(1274804496) --öl haupt haus
-RequestImap(1597665303) --öl haupt haus
+RequestImap(1274804496) -- walkway on top of oil tanks 482.75, 707.56, 121.62
+RequestImap(1597665303) -- Heartland Oil Station interior
 -- RequestImap(918349577)
 -- RequestImap(1596089211)
 -- RequestImap(-711890106)
 -- RequestImap(-1031113966)
-RequestImap(-2133417899)
+RequestImap(-2133417899)-- Heartland Oil Station house interior 456.97, 615.15, 112.52
 -- RequestImap(-891994084)
 -- RequestImap(1733948592)
 -- RequestImap(634831342)
 -- RequestImap(-528294019)
-RequestImap(-943891161) --lynnfarm
+RequestImap(-943891161) -- barn at -875.22, 332.55, 95.79
 -- RequestImap(-914406102)
 -- RequestImap(1855900423)
 -- RequestImap(73781828)
 -- RequestImap(-391567710)
-RequestImap(-1809571159)
+RequestImap(-1809571159) -- barn -1095.87, 700.46, 103.96
 -- RequestImap(-1052023588)
 -- RequestImap(944314155)
 -- RequestImap(1531008020)
@@ -2072,7 +2072,7 @@ RequestImap(-1809571159)
 -- RequestImap(2112594812)
 -- RequestImap(1750312025)
 -- RequestImap(-1111286486)
-RequestImap(-1625703283)
+RequestImap(-1625703283) -- barn 1625.97, 820.33, 144.7
 -- RequestImap(563581773)
 -- RequestImap(1628851253)
 -- RequestImap(746475990)
@@ -2087,9 +2087,9 @@ RequestImap(-1417469821) -- Annesburg blocked door of interior below 2922.8, 134
 -- RequestImap(-537740003)
 -- RequestImap(-1584316325)
 -- RequestImap(-1085363933)
-RequestImap(1517736440)
-RequestImap(-1509154451)
-RequestImap(-693132475)
+RequestImap(1517736440) -- Annesburg house mid construction
+RequestImap(-1509154451) -- Annesburg house completed
+RequestImap(-693132475) -- house pre construction
 -- RequestImap(-1984145124)
 -- RequestImap(-1315256079)
 -- RequestImap(-1653831205)
@@ -2106,9 +2106,9 @@ RequestImap(-693132475)
 -- RequestImap(585407854)
 -- RequestImap(1381573999)
 -- RequestImap(2116125345)
-RequestImap(-1369880946)
+RequestImap(-1369880946) -- Single Player Graves?
 -- RequestImap(292369320)
-RequestImap(539566709)
+RequestImap(539566709) -- Single Player Graves?
 -- RequestImap(883579956)
 -- RequestImap(-2111718052)
 -- RequestImap(1192526031)
@@ -2116,12 +2116,12 @@ RequestImap(539566709)
 -- RequestImap(-952533419)
 -- RequestImap(1584946069)
 -- RequestImap(2123010634)
-RequestImap(-1081335485)
+RequestImap(-1081335485) -- Van Horn?
 -- RequestImap(-1176501741)
 -- RequestImap(-2035177903)
 -- RequestImap(-1147247388)
 -- RequestImap(-1436313374)
-RequestImap(-445068262)
+RequestImap(-445068262) -- Saint Denis Docks?
 -- RequestImap(334010167)
 -- RequestImap(-676881895)
 -- RequestImap(1331438832)
@@ -2135,7 +2135,7 @@ RequestImap(-445068262)
 -- RequestImap(-584332967)
 -- RequestImap(-392430949)
 -- RequestImap(-904669171)
-RemoveImap(-2093605706)
+RemoveImap(-2093605706) -- BEECHERS?
 -- RequestImap(531960211)
 -- RequestImap(537424819)
 -- RequestImap(-1613262779)
@@ -2155,13 +2155,13 @@ RemoveImap(-2093605706)
 -- RequestImap(945532872)
 -- RequestImap(-890895654)
 -- RequestImap(1953646620)
-RequestImap(1299817544)
+RequestImap(1299817544) -- Strawberry?
 --RequestImap(1204787444)
-RequestImap(66523468)
+RequestImap(66523468) -- Strawberry?
 RequestImap(124787444)
 -- RequestImap(2040259178)
 -- RequestImap(1190076410)
-RequestImap(1598834669)
+RequestImap(1598834669) -- Strawberry?
 -- RequestImap(-1106517275)
 -- RequestImap(-1986209836)
 -- RequestImap(1525054056)
@@ -2169,7 +2169,7 @@ RequestImap(1598834669)
 -- RequestImap(-186143124)
 -- RequestImap(-2043326480)
 -- RequestImap(1924458218)
-RequestImap(966418260)
+RequestImap(966418260) -- Strawberry?
 -- RequestImap(-432154242)
 -- RequestImap(500829173)
 -- RequestImap(77337110)
@@ -2177,7 +2177,7 @@ RequestImap(966418260)
 -- RequestImap(-1125782227)
 -- RequestImap(-372970556)
 RequestImap(1947806010)
-RequestImap(1749008611)
+RequestImap(1749008611) -- cabin -1398.47, -215.33, 102.33
 -- RequestImap(2111695903)
 -- RequestImap(-1947695052)
 -- RequestImap(-1559513478)
@@ -2187,10 +2187,10 @@ RequestImap(1749008611)
 -- RequestImap(-826466486)
 -- RequestImap(-593183975)
 -- RequestImap(-362883443)
-RequestImap(-630275010)
+RequestImap(-630275010) -- campfire near cabin above 
 -- RequestImap(-164693058)
 -- RequestImap(118201723)
-RequestImap(458453080)
+RequestImap(458453080) -- campfire near cabin above 
 -- RequestImap(-1385360243)
 -- RequestImap(-1288790000)
 -- RequestImap(758066107)
@@ -2200,38 +2200,38 @@ RequestImap(458453080)
 -- RequestImap(2056603274)
 -- RequestImap(898257133)
 -- RequestImap(-380287375)
-RequestImap(281153830)
+RequestImap(281153830) -- logging camp -1358.32, -198.43, 101.79
 -- RequestImap(1739101350)
 -- RequestImap(-634291786)
 -- RequestImap(-1047158045)
-RequestImap(42081460)
+RequestImap(42081460) -- logging camp -1358.32, -198.43, 101.79
 -- RequestImap(870580095)
 -- RequestImap(504746979)
 -- RequestImap(138913863)
-RequestImap(-90108678)
+RequestImap(-90108678) -- Possibly Invalid
 -- RequestImap(1258244391)
 --RequestImap(-501793326)
 -- RequestImap(1490756544)
-RequestImap(-753454183)
-RequestImap(-1854368742)
+RequestImap(-753454183) -- trapper Blackwater
+RequestImap(-1854368742) -- trapper Blackwater
 -- RequestImap(466168676)
 -- RequestImap(-1123141803)
 -- RequestImap(1858796535)
 -- RequestImap(411846009)
 -- RequestImap(-393583941)
-RequestImap(-2122914678)
+RequestImap(-2122914678) -- grave Blackwater
 -- RequestImap(-518004776)
 -- RequestImap(917434281)
 -- RequestImap(-1859373348)
 -- RequestImap(-442857872)
 -- RequestImap(1251358153)
 -- RequestImap(872406077)
-RequestImap(1471226731) --Bau Valentine
+RequestImap(1471226731) --House South of Valentine -441.4, 499.04, 98.94
 -- RequestImap(-1471527776)
 -- RequestImap(1867048850)
 -- RequestImap(-1490939730)
-RequestImap(765141292)
-RequestImap(1305415261)
+RequestImap(765141292) --House South of Valentine -441.4, 499.04, 98.94
+RequestImap(1305415261) --House South of Valentine -441.4, 499.04, 98.94
 -- RequestImap(271879652)
 -- RequestImap(-2045964586)
 -- RequestImap(-1926989471)
@@ -2494,7 +2494,7 @@ RequestImap(-886310806) --Rodes Bank
 -- RequestImap(-753535900)
 -- RequestImap(-693870347)
 -- RequestImap(-877653131)
-RequestImap(1335714585) -- alte kirche
+RequestImap(1335714585) -- old church
 -- RequestImap(-1382351182)
 -- RequestImap(-688890765)
 -- RequestImap(-313992757)
@@ -2703,11 +2703,11 @@ RequestImap(-1405375965) --Rodes neues Haus
 -- RequestImap(1812453453)
 -- RequestImap(1393010249)
 -- RequestImap(-1799943886)
-RequestImap(45121961) --SD Boad
---RequestImap(1949854427) --SD Boad
---RequestImap(580700069) --SD Boad
---RequestImap(1347068672) --SD Boad
-RequestImap(943998860) --SD Boad
+RequestImap(45121961) --SD Boad overturned stagecoach -1171.25, -9.96, 41.46
+--RequestImap(1949854427) --SD Boad toppled circus wagons
+--RequestImap(580700069) --SD Boad toppled circus wagons
+--RequestImap(1347068672) --SD Boad toppled circus wagons
+RequestImap(943998860) --SD Boad toppled circus wagons
 RequestImap(1056170594) --SD Boad
 RequestImap(-873881483) --SD Boad
 RequestImap(881979872) --SD Boad
@@ -2723,7 +2723,7 @@ RequestImap(-1688366042) --SD Boad
 -- RequestImap(1547403545)
 -- RequestImap(-775951892)
 -- RequestImap(808576710)
-RequestImap(149553684)
+RequestImap(149553684) -- saint denis big theatre
 -- RequestImap(137316925)
 -- RequestImap(1431947993)
 RequestImap(1017355491) --SD Bank Wand
@@ -2759,7 +2759,7 @@ RequestImap(-1490034522)
 -- RequestImap(-494733971)
 -- RequestImap(490883533)
 -- RequestImap(752665876)
-RequestImap(1136457806)
+RequestImap(1136457806) -- SD tram crash
 -- RequestImap(-342806042)
 -- RequestImap(1255880931)
 -- RequestImap(1676972066)
@@ -2772,7 +2772,7 @@ RequestImap(1136457806)
 -- RequestImap(-1583923165)
 -- RequestImap(1726243396)
 -- RequestImap(96746001)
-RequestImap(1871261290)
+RequestImap(1871261290) -- SD?
 -- RequestImap(1767170589)
 -- RequestImap(396094389)
 -- RequestImap(68538405)
@@ -2784,7 +2784,7 @@ RequestImap(1871261290)
 -- RequestImap(195206081)
 -- RequestImap(1355914142)
 RequestImap(1659037747)
-RequestImap(165972019)
+RequestImap(165972019) -- SD docks?
 -- RequestImap(-1036688493)
 -- RequestImap(-30157790)
 -- RequestImap(1509141447)
@@ -2795,15 +2795,15 @@ RequestImap(165972019)
 -- RequestImap(942470447)
 -- RequestImap(-1170563128)
 -- RequestImap(1394163483)
-RequestImap(-483649675)
+RequestImap(-483649675) -- SD docks?
 -- RequestImap(-782601262)
 -- RequestImap(212587871)
 -- RequestImap(-436566493)
 -- RequestImap(-677790400)
 -- RequestImap(143811737)
 -- RequestImap(1679182807)
-RequestImap(-1512794226)
-RequestImap(146172383)
+RequestImap(-1512794226) -- SD docks?
+RequestImap(146172383) -- SD docks?
 -- RequestImap(876228895)
 RequestImap(1417317522)
 -- RequestImap(1417687142)
@@ -2837,8 +2837,8 @@ RequestImap(-1737485501)
 -- RequestImap(728046625)
 -- RequestImap(2033090463)
 -- RequestImap(826576088)
-RequestImap(1713084298) --Wüste grab
-RequestImap(928528900) --Wüste grab
+RequestImap(1713084298) -- cemetary near armadillo
+RequestImap(928528900) -- cemetary near armadillo
 -- RequestImap(391022529)
 -- RequestImap(1870870569)
 -- RequestImap(-2118853492)
@@ -2848,7 +2848,7 @@ RequestImap(928528900) --Wüste grab
 -- RequestImap(-1537525865)
 -- RequestImap(2079207010)
 -- RequestImap(1736386364)
-RequestImap(-2071756699)
+RequestImap(-2071756699) -- New Austin Stuff
 -- RequestImap(-1781758360)
 -- RequestImap(1184975829)
 -- RequestImap(1173232190)
@@ -2872,7 +2872,7 @@ RequestImap(-2071756699)
 -- RequestImap(1128276345)
 -- RequestImap(1873580721)
 -- RequestImap(1706906210)
-RequestImap(2094371528) --minen camp wüste
+RequestImap(2094371528) --mining camp near armadillo
 -- RequestImap(1688216398)
 -- RequestImap(-1802096589)
 -- RequestImap(669655585)
@@ -2931,19 +2931,19 @@ RequestImap(192248329)
 -- RequestImap(702867922)
 -- RequestImap(187740801)
 -- RequestImap(-523896426)
-RequestImap(483041556)
+RequestImap(483041556) -- Not quite sure
 -- RequestImap(-797033116)
 -- RequestImap(-455342387)
 -- RequestImap(-1407773372)
 -- RequestImap(2020752077)
 -- RequestImap(593772301)
-RequestImap(207032563)
-RequestImap(-1984361543)
+RequestImap(207032563) -- Not quite sure
+RequestImap(-1984361543) -- Not quite sure
 -- RequestImap(-869788001)
 -- RequestImap(-691393565)
 -- RequestImap(-1448947307)
 -- RequestImap(-1171033418)
-RequestImap(-487373767)
+RequestImap(-487373767) -- Train Tracks 1832.83, 877.56, 110.68
 -- RequestImap(341106871)
 -- RequestImap(-835267464)
 -- RequestImap(992700940)
@@ -2951,7 +2951,7 @@ RequestImap(-487373767)
 -- RequestImap(1589293578)
 -- RequestImap(1435082664)
 -- RequestImap(-2091615427)
-RequestImap(227706189)
+RequestImap(227706189) -- Train Tracks 1832.83, 877.56, 110.68
 -- RequestImap(1587857798)
 -- RequestImap(-454287921)
 -- RequestImap(1735860959)
@@ -2969,7 +2969,7 @@ RequestImap(227706189)
 -- RequestImap(1419819915)
 -- RequestImap(621272158)
 -- RequestImap(422167750)
-RequestImap(-1403908542)
+RequestImap(-1403908542) -- Strawberry?
 -- RequestImap(-2116659774)
 -- RequestImap(-893624314)
 -- RequestImap(985448695)
@@ -2999,7 +2999,7 @@ RequestImap(-1792518688)
 -- RequestImap(-1614141377)
 -- RequestImap(-926795318)
 -- RequestImap(2095421392)
-RequestImap(82084523)
+RequestImap(82084523) -- Possibly Invalid
 -- RequestImap(1815262278)
 -- RequestImap(1511919645)
 -- RequestImap(767505137)
@@ -3009,14 +3009,14 @@ RequestImap(82084523)
 -- RequestImap(706423733)
 -- RequestImap(-125588314)
 -- RequestImap(-1340001373)
-RequestImap(-2116397290)
+RequestImap(-2116397290)  -- uncut trees
 -- RequestImap(-922917541)
-RequestImap(1524580507)
+RequestImap(1524580507)  -- uncut trees
 -- RequestImap(204481342)
 -- RequestImap(-1466172032)
 -- RequestImap(-981873755)
 -- RequestImap(2013143748)
-RequestImap(1289178060)
+RequestImap(1289178060) -- shrubs at logging camp
 -- RequestImap(-642132908)
 -- RequestImap(-848315456)
 -- RequestImap(105426297)
@@ -3032,7 +3032,7 @@ RequestImap(1289178060)
 -- RequestImap(-677362237)
 -- RequestImap(1641449717)
 -- RequestImap(-562289114)
-RequestImap(-947895270)
+RequestImap(-947895270) -- Swamps?
 -- RequestImap(386231914)
 -- RequestImap(-329705198)
 -- RequestImap(18956962)
@@ -3058,26 +3058,26 @@ RequestImap(241205019) --guv feld
 -- RequestImap(-1184151355)
 RequestImap(-946313953) --guv feld
 RequestImap(-889100155) --guv feld
--- RequestImap(2056145270)
--- RequestImap(-1603329230)
--- RequestImap(-787678727)
--- RequestImap(-665583358)
--- RequestImap(-282972514)
--- RequestImap(-64632667)
--- RequestImap(314111435)
--- RequestImap(24859476)
--- RequestImap(340621560)
--- RequestImap(1266707689)
--- RequestImap(434145706)
--- RequestImap(654746614)
--- RequestImap(1965736001)
--- RequestImap(1650694835)
--- RequestImap(1133172356)
-RequestImap(-559257162) --Rodes neues Haus
--- RequestImap(418666411)
--- RequestImap(651621232)
-RequestImap(979670262) --Rodes neues Haus
-RequestImap(-1452136643)
+-- RequestImap(2056145270) -- Braithwaite Mansion?
+-- RequestImap(-1603329230) -- Braithwaite Mansion?
+-- RequestImap(-787678727) -- burnt plants outside Braithwaite Mansion
+-- RequestImap(-665583358) -- overgrown grass in crops Braithwaite Mansion
+-- RequestImap(-282972514) -- overgrown grass in crops Braithwaite Mansion
+-- RequestImap(-64632667) -- overgrown grass in crops Braithwaite Mansion
+-- RequestImap(314111435) -- overgrown grass in crops Braithwaite Mansion
+-- RequestImap(24859476) -- overgrown grass in crops Braithwaite Mansion
+-- RequestImap(340621560) -- overgrown grass in crops Braithwaite Mansion
+-- RequestImap(1266707689) -- Braithwaite Mansion?
+-- RequestImap(434145706) -- overgrown grass in crops Braithwaite Mansion
+-- RequestImap(654746614) -- overgrown grass in crops Braithwaite Mansion
+-- RequestImap(1965736001) -- Braithwaite Mansion?
+-- RequestImap(1650694835) -- Braithwaite Mansion?
+-- RequestImap(1133172356) --  ranch 1444.5, -1577.04, 71.54
+RequestImap(-559257162)  -- grass at ranch 1444.5, -1577.04, 71.54 (Rodes neues Haus)
+-- RequestImap(418666411) -- bushes at ranch 1444.5, -1577.04, 71.54
+-- RequestImap(651621232) -- overgrown grass at ranch 1444.5, -1577.04, 71.54
+RequestImap(979670262) --Rodes neues Haus Not quite sure
+RequestImap(-1452136643) -- weeds in field 1189.41, -1638.19, 58.63
  --guv feld
 RequestImap(-744260705) --guv feld
 -- RequestImap(1424293412)
@@ -3091,18 +3091,18 @@ RequestImap(979982112) --Baumwollfeld
 RequestImap(1756640181) --guv feld
 RequestImap(1557076971) --guv feld
 RequestImap(1913538153) --guv feld
--- RequestImap(2113454609)
--- RequestImap(-1865650458)
--- RequestImap(-1015786727)
--- RequestImap(-1560636071)
--- RequestImap(-904833761)
--- RequestImap(103750283)
--- RequestImap(-1017701936)
--- RequestImap(-717025835)
--- RequestImap(2039534767)
--- RequestImap(-1451954802)
--- RequestImap(-1554566073)
--- RequestImap(510089692)
+-- RequestImap(2113454609) -- Shady Belle
+-- RequestImap(-1865650458) -- Shady Belle
+-- RequestImap(-1015786727) -- Shady Belle
+-- RequestImap(-1560636071) -- underground Possibly Invalid
+-- RequestImap(-904833761) -- underground Possibly Invalid
+-- RequestImap(103750283) -- Floating junk at 1545.93 -5839.09 42.42
+-- RequestImap(-1017701936) -- Not quite sure
+-- RequestImap(-717025835) -- Not quite sure
+-- RequestImap(2039534767) -- Not quite sure
+-- RequestImap(-1451954802) -- some weird LOD mountains far north
+-- RequestImap(-1554566073) -- underground Possibly Invalid
+-- RequestImap(510089692) -- underground Possibly Invalid
 RequestImap(1978008114) --china markt
 -- RequestImap(-1208336782)
 -- RequestImap(1415119588)
@@ -3154,7 +3154,7 @@ RequestImap(295117400)
 -- RequestImap(371690004)
 -- RequestImap(1480174383)
 -- RequestImap(-276524767)
-RequestImap(728046625) --knast fenster
+RequestImap(728046625) -- prison window
 -- RequestImap(-1986209836)
 -- RequestImap(-929277449)
 -- RequestImap(-801609437)
